@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/JinGGoVPN/DATA/main/jinggovpn.jpg" />
+</p>
+
+<p align="center">
   CONTACT ME:<br><br>
   <a href="https://t.me/jinggo007" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
